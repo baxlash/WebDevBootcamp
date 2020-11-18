@@ -1,0 +1,23 @@
+body {
+	font-size: 13px;
+}
+
+h1 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 5.0em;
+	text-align: right;
+}
+
+
+span {
+	font-size: 2.0em;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+	font-size: 2.0em;
+	/*font-weight: bold;*/
+	line-height: 1.5;
+	text-align: justify;
+	/*text-decoration: underline;*/
+}

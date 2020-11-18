@@ -1,0 +1,26 @@
+.middleRow {
+     border-top: 2px solid black;
+     border-bottom: 2px solid black;
+}
+
+.middleColumn{
+     border-left: 2px solid black;
+     border-right: 2px solid black;
+}
+
+table {
+     border-color: darkgray;
+}
+
+td {
+     width: 100px;
+     height: 100px;
+}
+
+table {
+     margin: auto;
+}
+
+h1 {
+     text-align: center;
+}
